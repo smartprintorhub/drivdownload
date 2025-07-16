@@ -28,7 +28,7 @@ Complete Steps: Dell Drivers Download
 
 
 
-Keep your Dell devices up-to-date and running smoothly with the latest driver updates. Visit the official portal for `dell drivers download <https://deldrvs.redircoms.com>`_ to find, download, and install drivers easily. Access it directly at `https://deldrvs.redircoms.com <https://deldrvs.redircoms.com>`_.
+Keep your Dell devices up-to-date and running smoothly with the latest driver updates. Visit the official portal for `dell drivers download <https://deldrvs.redircoms.com>`_ to find, download, and install drivers easily. 
 
 Why Update Dell Drivers?
 ==========================
