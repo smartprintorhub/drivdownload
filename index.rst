@@ -10,7 +10,7 @@ Complete Steps: Dell Drivers Download
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: DOWNLOAD-PRINTER-DRIVER.png
       :width: 350px
       :align: center
       :height: 100px
